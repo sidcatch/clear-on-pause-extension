@@ -1,0 +1,35 @@
+.user-activity--hide-when-user-inactive--pDPGx {
+  transition: none !important;
+}
+.video-player--center-button--aPLkI {
+  display: none !important;
+}
+.vjs-paused .vjs-control-bar {
+  display: none !important;
+}
+.vjs-paused:hover .vjs-control-bar {
+  display: flex !important;
+}
+.volume-control--slider-focus-wrapper--1DEg2 {
+  padding: 0px 0px 5em !important;
+}
+
+.paused-mode .ytp-gradient-bottom,
+.paused-mode .ytp-gradient-top {
+  display: none;
+}
+
+.paused-mode:hover .ytp-gradient-bottom,
+.paused-mode:hover .ytp-gradient-top {
+  display: block;
+}
+
+.paused-mode .ytp-chrome-bottom,
+.paused-mode .ytp-chrome-top {
+  display: none;
+}
+
+.paused-mode:hover .ytp-chrome-bottom,
+.paused-mode:hover .ytp-chrome-top {
+  display: block;
+}
